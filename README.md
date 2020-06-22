@@ -2,7 +2,13 @@
 
 Create lists with different types of items
 
-## Getting Started
+Original tutorial from
+
+https://flutter.dev/docs/cookbook/lists/mixed-list
+
+---
+
+## Getting Started whit Flutter
 
 This project is a starting point for a Flutter application.
 
